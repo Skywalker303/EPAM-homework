@@ -1,0 +1,14 @@
+new = 6
+private = 3
+package = 1
+static = 6
+void = 3
+for = 5
+java = 4
+public = 8
+else = 2
+try = 1
+catch = 1
+if = 5
+append = 16
+return = 3
